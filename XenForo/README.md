@@ -1,3 +1,5 @@
+**此处的XenForo是LiquidBounce的一个魔改版本，与XenForo论坛软件无关**
+
 破解XenForo 版本2022
 
 也不清楚什么版本，就显示是2022版本
